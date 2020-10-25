@@ -37,4 +37,3 @@ module.exports = function toReadable (number) {
         if (k2 == 0 && k3 == 0) { return `${a1[k1]} ${a2[0]}` };
     }
 }
-}
